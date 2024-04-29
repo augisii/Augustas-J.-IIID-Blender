@@ -11,7 +11,7 @@
 ## Technologijos
 
 - **Kalba/Framework**: Blender ir Unity.
-- **Duomenų bazė**: Nesvarbu, nes tai gali būti vienkartinis modeliavimo projektas.
+- **Duomenų bazė**: Nesvarbu, nes tai yra lokalu.
 - **IDE**: Blender aplinka ir Unity aplinka.
 
 ## Darbo eiga
