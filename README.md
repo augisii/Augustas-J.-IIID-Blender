@@ -1,12 +1,23 @@
-# Blender
-1. Koks projektas? Blender modeliavimas
-2. Kokia funkciją atlieka projektas? Kokia jo nauda? Modeliuoja modelius
-3. PC/mobile? Jei mobile - android/iOS? Visi
-4. Kokios technologijos bus reikalingos projektui? Blender programa
-	4.1. Kokia kalba/framework bus naudojama projektui? Blender
-	4.2. Ar bus naudojama duomenų bazė? Blender
-	4.3. Koks IDE labiausiai tinka pasirinktai kalbai? (pvz: C++ bus codeblocks, C# bus visual studio, Java bus IntelliJ, Javascript - VS code ir tt.)
-5. Kokia darbo eiga? Koks darbo planas?
-	5.1. Išmokti naudotis blender programa
-   5.2 Padaryti kokybiška mašinos modelį, su savo perdarymo arba pagerinimu.
-   5.2 Padarius mašinos modelį įkelti į unity žaidimą kurį galėtu visi žaisti.
+# Blender Modeliavimas ir panaudojamas modelio unity platoformoje
+
+## Apie projektą
+
+Šis projektas yra 3D automobilio modeliavimo ir valdymo simuliacija, skirta žaidėjams įgyti žinių apie automobilių modeliavimą ir įgūdžius valdant jį. Tai taip pat gali būti naudinga žmonėms, kurie nori tiesiog mėgautis modeliavimo procesu arba išmokti naujų įgūdžių Blender programoje.
+
+## Platforma
+
+Šis projektas gali būti sukurtas tiek PC, tiek mobiliesiems įrenginiams, įskaitant Android ir iOS.
+
+## Technologijos
+
+- **Kalba/Framework**: Blender.
+- **Duomenų bazė**: Nesvarbu, nes tai gali būti vienkartinis modeliavimo projektas.
+- **IDE**: Blender aplinka.
+
+## Darbo eiga
+
+1. Išmokti naudotis Blender ir modeliuoti automobilį, įskaitant visus reikiamus detalumą.
+2. Organizuoti modeliavimo procesą taip, kad kiekvienas automobilio elementas būtų atskirame dalyje, lengvai redaguojamas ir valdomas.
+3. Sukurti automobilio animacijas, tokiu būdu simuliuojant judėjimą ir veiksmus, kuriuos galėtų atlikti galutinis vartotojas.
+4. Sukurti įvairius automobilio variantus arba modelius, kad būtų galima pasirinkti skirtingus stilius ar konfigūracijas.
+5. Galutinės modeliavimo ir animacijų rezultatus eksportuoti į tinkamą formą Unity projekto naudojimui.
