@@ -10,9 +10,9 @@
 
 ## Technologijos
 
-- **Kalba/Framework**: Blender.
+- **Kalba/Framework**: Blender ir Unity.
 - **Duomenų bazė**: Nesvarbu, nes tai gali būti vienkartinis modeliavimo projektas.
-- **IDE**: Blender aplinka.
+- **IDE**: Blender aplinka ir Unity aplinka.
 
 ## Darbo eiga
 
