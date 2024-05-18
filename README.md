@@ -23,4 +23,4 @@
 5. Galutinės modeliavimo ir animacijų rezultatus eksportuoti į tinkamą formą Unity projekto naudojimui.
 
 [Žiūrėti vaizdo įrašą](https://youtu.be/cyxH-Q8Hijo)  
-[Peržiūrėti modelį](https://realitymax.co/Oh2dDh)
+[Peržiūrėti modelį Beta](https://realitymax.co/Oh2dDh)
