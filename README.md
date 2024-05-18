@@ -1,4 +1,4 @@
-# Blender Modeliavimas ir panaudojamas modelio unity platformoje
+# Blender Modeliavimas ir panaudojamas modelio Unity platformoje
 
 ## Apie projektą
 
@@ -22,4 +22,5 @@
 4. Sukurti įvairius automobilio variantus arba modelius, kad būtų galima pasirinkti skirtingus stilius ar konfigūracijas.
 5. Galutinės modeliavimo ir animacijų rezultatus eksportuoti į tinkamą formą Unity projekto naudojimui.
 
-[Žiūrėti vaizdo įrašą](https://youtu.be/cyxH-Q8Hijo)
+[Žiūrėti vaizdo įrašą](https://youtu.be/cyxH-Q8Hijo)  
+[Peržiūrėti modelį Beta](https://realitymax.co/Oh2dDh)
