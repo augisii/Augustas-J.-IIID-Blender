@@ -1256,11 +1256,11 @@ MonoBehaviour:
   steeringSensitivityFactor: 1
   oldSteeringInput: 0
   steeringDifference: 0
-  useFuelConsumption: 0
+  useFuelConsumption: 1
   fuelTankCapacity: 62
   fuelTank: 62
   fuelConsumptionRate: 0.1
-  useEngineHeat: 0
+  useEngineHeat: 1
   engineHeat: 15
   engineCoolingWaterThreshold: 90
   engineHeatRate: 1
@@ -1545,13 +1545,13 @@ MonoBehaviour:
     rotateAround: 2
     text: {fileID: 0}
   fuelDial:
-    dial: {fileID: 0}
-    multiplier: 0.1
+    dial: {fileID: 1544783456485649121}
+    multiplier: -0.4
     rotateAround: 2
     text: {fileID: 0}
   heatDial:
-    dial: {fileID: 0}
-    multiplier: 0.1
+    dial: {fileID: 8305068153716235848}
+    multiplier: -0.4
     rotateAround: 2
     text: {fileID: 0}
   interiorLights:
@@ -37833,7 +37833,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1352290022}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Mirrors
   m_TagString: Untagged
   m_Icon: {fileID: 0}
