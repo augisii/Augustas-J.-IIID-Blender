@@ -1152,8 +1152,8 @@ MonoBehaviour:
   overrideAllWheels: 0
   poweredWheels: 0
   SteeringWheel: {fileID: 1739365738902141979}
-  steeringWheelRotateAround: 2
-  steeringWheelAngleMultiplier: 5
+  steeringWheelRotateAround: 1
+  steeringWheelAngleMultiplier: -5
   wheelTypeChoise: 3
   externalController: 0
   steeringType: 0
@@ -1533,7 +1533,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rPMDial:
     dial: {fileID: 1339232087084327336}
-    multiplier: -0.07
+    multiplier: -0.03
     rotateAround: 2
     text: {fileID: 0}
   speedDial:
@@ -1551,7 +1551,10 @@ MonoBehaviour:
     multiplier: 0.1
     rotateAround: 2
     text: {fileID: 0}
-  interiorLights: []
+  interiorLights:
+  - light: {fileID: 0}
+    intensity: 0
+    renderMode: 0
 --- !u!1 &176211097
 GameObject:
   m_ObjectHideFlags: 0
@@ -63753,13 +63756,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1339232087084327336}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.6375563, y: -0.7616979, z: -0.08856263, w: 0.07412868}
+  m_LocalRotation: {x: -0.75022787, y: -0.65101445, z: -0.07569346, w: 0.087229006}
   m_LocalPosition: {x: -0.291749, y: 0.96077824, z: 0.4227475}
   m_LocalScale: {x: 0.9423987, y: 0.94239855, z: 0.94239855}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 543450652504712494}
-  m_LocalEulerAnglesHint: {x: -166.736, y: 0, z: -100.14}
+  m_LocalEulerAnglesHint: {x: -166.736, y: 0, z: -81.9}
 --- !u!33 &5756645857500611120
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -65160,10 +65163,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1106476318, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -31.875122
+      value: -31.875
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 1603495933318202, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
