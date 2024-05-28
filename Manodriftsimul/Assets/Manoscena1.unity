@@ -8075,7 +8075,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.15566039, b: 0.21774404, a: 1}
-  m_Intensity: 1
+  m_Intensity: 0.5
   m_Range: 50
   m_SpotAngle: 90
   m_InnerSpotAngle: 71.41338
@@ -26931,8 +26931,8 @@ MonoBehaviour:
   activeMainCamera: {fileID: 0}
   registerLastSpawnedVehicleAsPlayerVehicle: 1
   disableUIWhenNoPlayerVehicle: 0
-  loadCustomizationAtFirst: 0
-  useRecord: 1
+  loadCustomizationAtFirst: 1
+  useRecord: 0
   allRecorders: []
   recordMode: 0
   allVehicles: []
@@ -52087,7 +52087,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.108383924, b: 0, a: 1}
-  m_Intensity: 1
+  m_Intensity: 0.5
   m_Range: 50
   m_SpotAngle: 90
   m_InnerSpotAngle: 71.41338
@@ -65476,6 +65476,21 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 1603495933318202, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 1634723900901242, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 1650689386770986, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 1264877806127772, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 1341991126911894, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 1672435308259918, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 1429944069649610, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 1915434727961056, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 6774313818194617255, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 1000013262375938, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 1000013181762788, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 110570, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 1000010675433538, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 129338, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 5390557067427677761, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+    - {fileID: 2144914868514628371, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
